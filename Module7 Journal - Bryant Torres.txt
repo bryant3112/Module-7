@@ -1,0 +1,7 @@
+Chapter 15 - Git GUI Tools 
+In this chapter I learned how Git GUI tools can make working with Git easier by giving me a visual way to work with my repository. I learned about creating issues, making commits, creating pull request, and using gitk to look at the history of a project. One difficulty I had was getting Git GUI to work on my Mac because it was not already installed. This helped me understand that Git can be used through different tools while still performing the same version control tasks.
+
+Chapter 16 - Advanced Git
+In this chapter I learned more advanced Git commands such as reverting, stashing, and resetting. Reverting can help undo changes while keeping a record of what happened. Stashing is useful when I needed to temporarily save changes without committing them. Ressetting can move the project back to a previous state. These commands are important because they give me more control when I make mistakes or needed to change my work.
+
+Module7 helped me understand Git better and showed me different ways to manage changes in a project. I still need more practice with some of the advanced commands , but I am becoming more comfortable using Git and GitHub.
